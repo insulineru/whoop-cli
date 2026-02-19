@@ -7,7 +7,7 @@ CLI for fetching WHOOP health data via the WHOOP API v2.
 ## Install
 
 ```bash
-npm install -g whoop-cli
+npm install -g @insuline/whoop-cli
 ```
 
 ## Quick Start
